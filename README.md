@@ -2,7 +2,7 @@
 
 ## Demo
 
-[View Live Demo](https://ali-mohamed10.github.io/Tailwindcss-project/)
+[View Live Demo](https://tailwindcssproject-gamma.vercel.app/)
 
 This is a simple responsive website template built with Tailwind CSS. It features a modern landing page, a responsive navigation bar, and example sections for best practices and team members.
 
